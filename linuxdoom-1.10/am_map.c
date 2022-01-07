@@ -82,6 +82,7 @@ static const char rcsid[] = "$Id: am_map.c,v 1.4 1997/02/03 21:24:33 b1 Exp $";
 #define SECRETWALLRANGE WALLRANGE
 #define GRIDCOLORS	(GRAYS + GRAYSRANGE/2)
 #define GRIDRANGE	0
+
 #define XHAIRCOLORS	GRAYS
 
 // drawing stuff
